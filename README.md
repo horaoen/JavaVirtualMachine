@@ -1,2 +1,2 @@
-# Java vitural machine learning project
+# Java virtural machine learning project
 
